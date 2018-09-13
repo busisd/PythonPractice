@@ -1,0 +1,1 @@
+I write in this file to force git to do a new commit so I can test stuff like default text editor.
